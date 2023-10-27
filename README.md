@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @KariouiLounes
-- 👀 I’m interested in Coding , sport and a loooot of things
-- 🌱 I’m currently learning HTML/CSS /Javascript and Portugues
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am passionate about IT and combat sports. I see nothing but challenges to conquer and battles to win.
+- 🌱 HTML/CSS/JAVASCRIPT/SQL/PHP/REACT/NODEJS- 
+  
+- 📫 How to reach me : louneskarioui@gmail.com
+  Linkedin : https://www.linkedin.com/in/lounes-karioui/
 
 <!---
 KariouiLounes/KariouiLounes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
